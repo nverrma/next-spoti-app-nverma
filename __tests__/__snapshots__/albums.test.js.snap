@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`albums renders a heading 1`] = `
+<div>
+  <div
+    style="background: skyblue;"
+  >
+    <h1
+      class="text-center my-5"
+    >
+      Playlist
+    </h1>
+    <div
+      class="row"
+    />
+    <h1
+      class="my-5 text-center"
+    >
+      your album playlist
+    </h1>
+    <div
+      class="row"
+    />
+  </div>
+</div>
+`;
